@@ -1,0 +1,33 @@
+Delivered-To: incident@idsirtii.or.id
+Received: from localhost (xxx.idsirtii.or.id [127.0.0.1])
+    	by xxx.idsirtii.or.id (Postfix) with ESMTP id 776FB82F4B
+    	for <incident@idsirtii.or.id>; Tue, 15 Sep 2015 13:48:43 +0700 (WIT)
+X-Received: by 127.0.0.1 with SMTP id 83BAE82905;
+        Tue, 15 Sep 2015 13:48:43 +0700 (WIT)
+Return-Path: <taichi.michio@mail.com>
+Received: from xxx.idsirtii.or.id ([127.0.0.1])
+    	by localhost (xxx.idsirtii.or.id [127.0.0.1]) (amavisd-new, port 10024)
+    	with ESMTP id 12lbX5JR0o83 for <incident@idsirtii.or.id>;
+    	Tue, 15 Sep 2015 13:48:43 +0700 (WIT)
+MIME-Version: 1.0
+From: taichi.michio@mail.com
+To: incident@idsirtii.or.id
+Reply-To: taichi.michio@mail.com
+Date: Tue, 15 Sep 2015 14:48:27 +0800
+Subject: Mohon bantu ditelusuri
+Content-Type: multipart/mixed;boundary="----=_20150915144827_19857"
+Return-Path: taichi.michio@mail.com
+Message-ID: <0adb23731cdca5ed4c7844c0593c8ab2.squirrel@xxx.idsirtii.or.id>
+X-OriginalArrivalTime: 15 Sep 2015 13:48:43 +0700 (WIT)
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+U2VsYW1hdCBzaWFuZywKCk1vaG9uIGJhbnR1YW4gdW50dWsgYWtzaSBwZXJldGFzYW4gcGFkYSBk
+YXRhY2VudGVyIGthbWkgeWFuZyBkaWxha3VrYW4gb2xlaCBvcmFuZyB0aWRhayBiZXJ0YW5nZ3Vu
+ZyBqYXdhYi4KTXVuZ2tpbiBoYWNrZXIvY3Jha2VyIHRlbGFoIG1lbmFuYW1rYW4gc2VzdWF0dSBw
+YWRhIHNhbGFoIHNhdHUgc2VydmVyIGthbWkgeWFuZyBhZGEgZGlkYXRhIGNlbnRlciwgCmthcm5h
+IHRpbSBrYW1pIG1lbmVtdWthbiBzYXR1IGZpbGUgeWFuZyB0ZXJ0aW5nZ2FsIGRpc2FuYS4KCkhh
+c2lsIHBlbmVtdWFuIHRlcnNlYnV0IGthbWkgbGFtcGlya2FuIHBhZGEgYXR0YWNobWVudC4KCkF0
+YXMgYmFudHVhbiBkYW4gcGVyaGF0aWFubnlhIGRpdWNhcGthbiB0ZXJpbWEga2FzaWgKLS0gCgoq
+QmVzdCBSZWdhcmQqCkhheWFidXNhCgpKb2dlciBDb3Jw
